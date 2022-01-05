@@ -11,7 +11,7 @@ import org.jsoup.select.Elements;
  *
  * @author oriana.cruz
  */
-public class SoupTestCats4 {
+public class SoupTestHTML {
 
     public static void main(String[] args) throws IOException {
     
